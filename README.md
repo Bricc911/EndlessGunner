@@ -1,5 +1,8 @@
 Simple java-programmed game using object-oriented programming.
 
+HOW TO RUN:
+Open up your preffered IDE and run GameLoop.java
+
 How It Works:
 Your main character is spawned in the middle of the screen and enemies will start spawning at random directions, infinitely.
 
